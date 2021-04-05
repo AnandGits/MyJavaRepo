@@ -63,8 +63,8 @@ public class Family implements Serializable {
 		return Age;
 	}
 
-	public void setAge(int age) {
+	/*public void setAge(int age) {
 		Age = age;
-	}
+	}*/
 
 }
